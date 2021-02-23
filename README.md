@@ -10,3 +10,5 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 * 👨🏽 💻 **Collaborate** **asynchronously**  with your team comment and review drafts before publishing.
 
+![](.gitbook/assets/bg_2.jpg)
+
