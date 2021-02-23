@@ -2,7 +2,7 @@
 
 * [Kevinectv](README.md)
 
-## 🎮 Discord
+## 🔔 ABOUT DIGICIA <a id="discord"></a>
 
 * [Untitled](discord/untitled.md)
 
