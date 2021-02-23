@@ -8,5 +8,5 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 ## With GitBook you can:
 
-* 👨🏽💻 **Collaborate** **asynchronously**  with your team comment and review drafts before publishing.
+* 👨🏽 💻 **Collaborate** **asynchronously**  with your team comment and review drafts before publishing.
 
