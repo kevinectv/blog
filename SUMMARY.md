@@ -1,4 +1,4 @@
 # Table of contents
 
-* [👤 kevinectv help](README.md)
+* [👤 kevinectv](README.md)
 
