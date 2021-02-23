@@ -6,3 +6,11 @@ We want to help **teams to work more efficiently**🤝by creating a simple but y
 
 Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and share knowledge through documentation.
 
+**With GitBook you can:**
+
+* \*\*\*\*👩🏻💻👨🏽💻 **Collaborate** **asynchronously** with your team comment and review drafts before publishing.
+
+
+
+* \*\*\*\*
+
