@@ -4,5 +4,5 @@
 
 ## 🔔 ABOUT DIGICIA <a id="discord"></a>
 
-* [Untitled](discord/untitled.md)
+* [ABOUT](discord/about.md)
 
